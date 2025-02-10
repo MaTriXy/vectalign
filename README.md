@@ -1,4 +1,4 @@
-# VectAlign [ ![Download](https://api.bintray.com/packages/bonnyfone/maven/org.bonnyfone.vectalign/images/download.svg) ](https://bintray.com/artifact/download/bonnyfone/maven/vectalign-0.2-jar-with-dependencies.jar) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-VectAlign-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/2443)
+# VectAlign [ ![Build Status](https://travis-ci.org/bonnyfone/vectalign.svg?branch=master)](https://travis-ci.org/bonnyfone/vectalign) [ ![Download](https://api.bintray.com/packages/bonnyfone/maven/org.bonnyfone.vectalign/images/download.svg) ](https://bintray.com/artifact/download/bonnyfone/maven/vectalign-0.2-jar-with-dependencies.jar) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-VectAlign-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/2443)
 
 **VectAlign** (a.k.a. *VectorDrawableAlign*) is a developer's tool which automagically **aligns two `VectorDrawable` "pathData" strings (or SVG images) in order to allow morphing animations** between them using an `AnimatedVectorDrawable`. VectAlign can be used from command line or through a simple GUI (which includes *morphing preview* and *export* functionalities).
 
@@ -7,11 +7,7 @@
 
 Here are some examples of what you can do with the help of VectAlign (take a look at the [sample project] for a live demo):
 
-<img src="http://s4.postimg.org/boxc1zk0p/morph2.gif" width="110px">
-<img src="http://s21.postimg.org/4657b7m0j/morph1.gif" width="110px">
-<img src="http://s28.postimg.org/8mdcxb48t/morph5.gif" width="110px">
-<img src="http://s18.postimg.org/79coo8vid/morph3.gif" width="120px">
-<img src="http://s9.postimg.org/a5tdgfppn/morph4.gif" width="140px">
+<img src="http://s4.postimg.org/boxc1zk0p/morph2.gif" width="110px"> <img src="http://s21.postimg.org/4657b7m0j/morph1.gif" width="110px"> <img src="http://s28.postimg.org/8mdcxb48t/morph5.gif" width="110px"> <img src="http://s18.postimg.org/79coo8vid/morph3.gif" width="120px"> <img src="http://s9.postimg.org/a5tdgfppn/morph4.gif" width="140px">
 
  The problem
 --
